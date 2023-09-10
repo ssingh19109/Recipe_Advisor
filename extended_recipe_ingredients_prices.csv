@@ -1,0 +1,37 @@
+Recipe Name,Ingredient,Price (USD),Size
+Spaghetti Carbonara,Spaghetti,1.5,
+Spaghetti Carbonara,Eggs,0.5,
+Spaghetti Carbonara,Parmesan Cheese,3.0,
+Spaghetti Carbonara,Bacon,4.0,
+Vegetable Stir-Fry,Broccoli,1.0,
+Vegetable Stir-Fry,Carrot,0.6,
+Vegetable Stir-Fry,Bell Pepper,1.2,
+Vegetable Stir-Fry,Soy Sauce,2.0,
+Chicken Curry,Chicken Breast,5.0,
+Chicken Curry,Curry Powder,1.5,
+Chicken Curry,Coconut Milk,2.5,
+Chicken Curry,Onion,0.8,
+Pancakes,Flour,1.0,
+Pancakes,Eggs,0.5,
+Pancakes,Milk,0.7,
+Pancakes,Maple Syrup,4.5,
+Tacos,Ground Beef,3.5,
+Tacos,Tortillas,2.0,
+Tacos,Tomato,1.0,
+Tacos,Lettuce,1.0,
+Egg Fried Rice,Rice,1.0,2 cups
+Egg Fried Rice,Eggs,0.5,2
+Egg Fried Rice,Soy Sauce,2.0,2 tbsp
+Egg Fried Rice,Onion,0.8,1
+Chicken Alfredo,Chicken Breast,5.0,2 breasts
+Chicken Alfredo,Spaghetti,1.5,200g
+Chicken Alfredo,Parmesan Cheese,3.0,100g
+Chicken Alfredo,Milk,0.7,1 cup
+Veggie Tacos,Tortillas,2.0,4
+Veggie Tacos,Bell Pepper,1.2,1
+Veggie Tacos,Onion,0.8,1
+Veggie Tacos,Lettuce,1.0,1 cup
+French Toast,Bread,2.0,4 slices
+French Toast,Eggs,0.5,2
+French Toast,Milk,0.7,1 cup
+French Toast,Maple Syrup,4.5,2 tbsp
